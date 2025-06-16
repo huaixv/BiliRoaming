@@ -40,6 +40,8 @@
     <string name="tg_summary">点击加入TG频道</string>
     <string name="custom_upos_title">UPOS 服务器设置</string>
     <string name="custom_upos_summary">自定义番剧的 UPOS 服务器，可解决黑屏与无限加载</string>
+    <string name="disable_startup_toast_summary">关闭开屏吐司</string>
+    <string name="disable_startup_toast_title">插件启动时不显示底部弹窗</string>
     <string name="purify_splash_title">净化开屏页面</string>
     <string name="purify_splash_summary">去除启动客户端时的推广</string>
     <string name="custom_splash_title">替换启动图</string>

@@ -30,6 +30,12 @@
             android:key="allow_mini_play"
             android:summary="@string/allow_mini_play_summary"
             android:title="@string/allow_mini_play_title" />
+
+        <SwitchPreference
+            android:dependency="main_func"
+            android:key="disable_startup_toast"
+            android:summary="@string/disable_startup_toast_summary"
+            android:title="@string/disable_startup_toast_title" />
     </PreferenceCategory>
 
     <PreferenceCategory android:title="@string/cdn_category">
